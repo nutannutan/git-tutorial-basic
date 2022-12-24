@@ -1,3 +1,4 @@
 # git-tutorial-basic-first change
 first practice git 
-uodated first change first commit
+updated first change first commit
+updated second change from  ui -second commit 
